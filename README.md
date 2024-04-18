@@ -1,4 +1,4 @@
 # Stocking
 
-This is my first Ruby on Rails app.
+This is my first Ruby on Rails app
 
